@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/signin/static/css/main.ade9a184.chunk.css",
+    "main.js": "/signin/static/js/main.10ecfb1e.chunk.js",
+    "main.js.map": "/signin/static/js/main.10ecfb1e.chunk.js.map",
+    "runtime-main.js": "/signin/static/js/runtime-main.a73d4b27.js",
+    "runtime-main.js.map": "/signin/static/js/runtime-main.a73d4b27.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/signin/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.1f2e922d.chunk.js": "/signin/static/js/2.1f2e922d.chunk.js",
+    "static/js/2.1f2e922d.chunk.js.map": "/signin/static/js/2.1f2e922d.chunk.js.map",
+    "index.html": "/signin/index.html",
+    "precache-manifest.cd6e705df8ec34da6d0079007e02666a.js": "/signin/precache-manifest.cd6e705df8ec34da6d0079007e02666a.js",
+    "service-worker.js": "/signin/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/signin/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.ade9a184.chunk.css.map": "/signin/static/css/main.ade9a184.chunk.css.map",
+    "static/js/2.1f2e922d.chunk.js.LICENSE.txt": "/signin/static/js/2.1f2e922d.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/signin/static/media/Montserrat-Regular.ab459481.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a73d4b27.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.1f2e922d.chunk.js",
+    "static/css/main.ade9a184.chunk.css",
+    "static/js/main.10ecfb1e.chunk.js"
+  ]
+}
